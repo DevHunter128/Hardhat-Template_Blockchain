@@ -103,7 +103,7 @@ const config: HardhatUserConfig = {
     settings: {
       metadata: {
         // Not including the metadata hash
-        // https://github.com/paulrberg/hardhat-template/issues/31
+        // https://github.com/TyreseSong/Hardhat-Template_Blockchain/issues/31
         bytecodeHash: "none",
       },
       // Disable the optimizer when debugging
